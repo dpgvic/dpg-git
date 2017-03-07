@@ -1,1 +1,1 @@
-# dpg-git
+# demo-git
